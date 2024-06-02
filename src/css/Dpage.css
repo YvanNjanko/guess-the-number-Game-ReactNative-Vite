@@ -1,0 +1,27 @@
+.DPage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+}
+.DPage__container{
+    display: flex;
+    flex-direction: column;
+    width: 60vw;
+    height: 70vh;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+}
+.DPage__DSelector{
+    height: 40px;
+    width: 50%;
+    background-color: gray;
+    margin: 8px;
+}
+.DPage__img{
+    width: 30px;
+}

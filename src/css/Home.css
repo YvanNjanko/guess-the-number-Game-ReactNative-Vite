@@ -1,0 +1,15 @@
+.home{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.home__icon{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.home__icon--image{
+    width: 40%;
+}
